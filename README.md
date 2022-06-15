@@ -1,2 +1,2 @@
-# Foto-do-meu-gato
-essas são as fotos dos meus gatos.
+# Fotos-dos-meus-gatos
+essas são as fotos dos meus gatos para vocês.
